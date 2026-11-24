@@ -8,6 +8,7 @@
 | `images/animalfriends/` | 동물 친구들 — `store/` Play 스토어 등록 이미지(아이콘 512, 대표 그래픽, 폰·7인치·10인치 스크린샷), `icon-1024.png` |
 | `images/hangulplay/` `lifeplay/` `numberplay/` `shapeplay/` `stampplay/` | 아이용 앱 — `icon-1024.png` (스토어 등록 때 스크린샷은 `store/` 폴더에 추가) |
 | `images/household-ledger/` | 우리집 가계부 — `manual/slideNN-k.png` 사용자 매뉴얼(배포용)의 샘플 화면(슬라이드 번호 순), `icon.png` |
+| `images/sosang-tools/` | 소상공인 만능도구 — `app/` 앱 화면(대시보드·마법사·색상 테마 등 33장), `kmong/` 크몽 상세페이지 이미지 12장, `install-guide.png` 설치 안내, `icon-1024.png` |
 | `images/comstocktestbot/` | 주식노트 — `icon-512.png` |
 
 ## 쓰는 방법
